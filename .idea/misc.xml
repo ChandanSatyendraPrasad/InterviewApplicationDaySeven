@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/a_button.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/button_custom.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/fronttitle.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/lg.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/logo_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/drawable/test.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/activity_question.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/activity_tough_question.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/frontpage_title_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/questions.xml" value="0.22" />
+        <entry key="..\:/AndroidQWorkSpace2021/InterviewApplicationDaySeven/app/src/main/res/layout/questions_title_bar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
